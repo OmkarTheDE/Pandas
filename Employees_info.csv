@@ -1,0 +1,24 @@
+Emp_id,Name,Age,Address,Dept_id,Dept_name,Salary
+1,anisha,21,parbhani,102,data science,52000
+2,sakshi,20,nanded,104,HR,65600
+3,poonam,19,parbhani,103,production,95000
+4,omkar,20,pune,101,devlopment,104440
+5,ganesh,21,aurangabad,101,devlopment,98000
+6,samiksha,22,mumbai,103,production,50000
+7,devanand,19,nashik,105,marketing,45000
+8,vishnu,18,nanded,103,production,620000
+9,govind,,amravati,102,data science,104440
+10,gayatri,20,beed,101,devlopment,98000
+11,shamal,19,nanded,104,HR,50000
+12,preeti,20,,105,sales,76000
+13,pramod,22,pune,102,data science,120000
+14,sandip,19,parbhani,105,sales,56000
+16,alex,23,latur,104,HR,90000
+18,sakshi,20,nanded,104,HR,65600
+20,poonam,19,parbhani,103,production,95000
+22,omkar,,pune,101,devlopment,104440
+24,ganesh,21,aurangabad,101,devlopment,98000
+26,samiksha,22,mumbai,103,production,50000
+28,devanand,19,,105,marketing,45000
+30,vishnu,18,nanded,103,production,620000
+32,govind,,amravati,102,data science,104440
